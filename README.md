@@ -12,12 +12,12 @@ Amanda María Aroutin Allocca
 
 # Índice
 
-- Introducción - Página
-- Requisitos del enunciado - Página
-- Desarrollo - Página
-- Dificultades encontradas - Página
-- Conclusión - Página
-- Enlace al repositorio de GitHub - Página
+- Introducción.
+- Requisitos del enunciado.
+- Desarrollo.
+- Dificultades encontradas.
+- Conclusión.
+- Enlace al repositorio de GitHub.
 
 ---
 
